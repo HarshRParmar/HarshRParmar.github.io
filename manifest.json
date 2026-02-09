@@ -1,7 +1,7 @@
 {
   "name": "Productivity App",
   "short_name": "Productivity",
-  "description": "All-in-one productivity app with To-Do, Budget, and Habit tracking",
+  "description": "All-in-one productivity app with To-Do, Budget, Habit tracking, and Projects",
   "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#667eea",

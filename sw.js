@@ -1,7 +1,7 @@
-const CACHE_NAME = 'productivity-app-v2';
+const CACHE_NAME = 'productivity-app-v3';
 const urlsToCache = [
   '/index.html',
-  '/app-v2.js',
+  '/app-v3.js',
   '/manifest.json',
   '/icon-192.png',
   '/icon-512.png'
